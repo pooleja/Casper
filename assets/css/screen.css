@@ -2892,7 +2892,7 @@ Usage (In Ghost editor):
     }
 
     img {
-        opacity: 0.9;
+        opacity: 1;
     }
 
     .site-header-background:before {
