@@ -160,6 +160,7 @@ body {
 }
 
 .site-title {
+    font-family: 'Unica One', cursive;
     z-index: 10;
     margin: 0 0 0 -2px;
     padding: 0;
@@ -675,6 +676,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card-title {
+    font-family: 'Unica One', cursive;
     margin: 0 0 0.4em;
     line-height: 1.15em;
     transition: color 0.2s ease-in-out;
@@ -979,6 +981,7 @@ make sure this only happens on large viewports / desktop-ish devices.
 }
 
 .post-full-title {
+    font-family: 'Unica One', cursive;
     margin: 0 0 0.2em;
     color: color-mod(var(--darkgrey) l(-5%));
 }
