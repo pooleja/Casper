@@ -128,6 +128,17 @@ production stylesheet in assets/built/screen.css
 
 .site-logo {
     max-height: 100px;
+    opacity: 0.99;
+}
+
+.site-description {
+    z-index: 10;
+    margin: 0;
+    padding: 5px 0;
+    font-size: 2.1rem;
+    line-height: 1.4em;
+    font-weight: 400;
+    opacity: 0.8;
 }
 
 .site-header-content p {

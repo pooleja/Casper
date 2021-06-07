@@ -17,14 +17,11 @@ into the {body} of the default.hbs template --}}
             alt=""
         />
     {{/if}}
-    <div class="site-header-content">
         <img class="site-logo" src="{{img_url @site.logo size="xl"}}" alt="{{@site.title}}" />
-        <h1 class="site-title">
-                
+        <h1 class="site-title">                
                 {{@site.title}}
         </h1>
         <h2 class="site-description">{{@site.description}}</h2>
-    </div>
 </div>
 
 {{!-- The main content area --}}
